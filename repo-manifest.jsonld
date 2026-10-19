@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/amitt001/delegator.py/commit/194aa92543fbdbfbae0bcc24ca217819a7805da2",
       "git:hexsha": "194aa92543fbdbfbae0bcc24ca217819a7805da2",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/amitt001/delegator.py/commit/9c3baa62a373df3c048848ec1a0d2d5ccb18c142",
